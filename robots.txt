@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://johptn.github.io/sitemap/sitemap.txt
